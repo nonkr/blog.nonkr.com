@@ -52,6 +52,6 @@ tags:
 ```text
 subs_filter_types text/css;
 subs_filter fonts.googleapis.com fonts.proxy.ustclug.org;
-subs_filter ./themes/default/assets //cdn.bootcss.com/semantic-ui/2.2.9/themes/default/assets;
+subs_filter themes/default/assets //cdn.bootcss.com/semantic-ui/2.2.9/themes/default/assets;
 ```
 3. 将``semantic.min.css``传到自己服务器上使用
