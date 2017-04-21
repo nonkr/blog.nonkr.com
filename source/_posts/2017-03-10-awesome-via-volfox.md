@@ -30,6 +30,7 @@ tags:
 
 ### 图片
 [PLACEHOLD.IT - 图片占位工具](https://placehold.it/)
+[智图-图片优化平台](http://zhitu.isux.us)
 [unsplash](https://unsplash.com)
 
 ### UI设计
