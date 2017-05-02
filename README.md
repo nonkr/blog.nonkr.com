@@ -1,5 +1,8 @@
 # blog.nonkr.com
 
+## 仓库地址
+https://github.com/nonkr/blog.volfox.cn
+
 ## 生成一篇新文章
 
 在当前根目录下
