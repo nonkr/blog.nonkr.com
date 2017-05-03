@@ -26,15 +26,16 @@ tags:
 [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 ### JS动画
-[Swiper](http://www.swiper.com.cn/)
+[Swiper](http://www.swiper.com.cn)
 
 ### 图片
-[PLACEHOLD.IT - 图片占位工具](https://placehold.it/)
+[PLACEHOLD.IT - 图片占位工具](https://placehold.it)
 [智图-图片优化平台](http://zhitu.isux.us)
 [unsplash](https://unsplash.com)
+[动物头像](https://www.zooportraits.com)
 
 ### UI设计
-[UI设计师导航](http://so.uigreat.com/)
+[UI设计师导航](http://so.uigreat.com)
 
 ### UI框架
-[Semantic UI](https://semantic-ui.com/)
+[Semantic UI](https://semantic-ui.com)
