@@ -45,6 +45,8 @@ json_tree(json)
 json_tree(json,path)
 ```
 
+<!-- more -->
+
 ## 使用示例
 ```sql
 select json_object('ex',json('[52,3.14159]'));
