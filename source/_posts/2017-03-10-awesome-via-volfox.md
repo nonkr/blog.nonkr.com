@@ -1,9 +1,14 @@
 ---
 title: Awesome Via VOLFOX
 date: 2017-03-10 16:54:59
-categories:
+categories: awesome
 tags:
 - awesome
+- css
+- icon
+- javascript
+- ui
+- python
 ---
 
 # 前端
@@ -39,3 +44,9 @@ tags:
 
 ### UI框架
 [Semantic UI](https://semantic-ui.com)
+
+
+# Python
+
+### 文章
+[Python时间处理](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
