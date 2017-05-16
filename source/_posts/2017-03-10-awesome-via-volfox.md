@@ -48,5 +48,9 @@ tags:
 
 # Python
 
+### 中文文档
+[Python 中文学习大本营](http://www.pythondoc.com)
+[Flask-RESTful](http://www.pythondoc.com/Flask-RESTful)
+
 ### 文章
 [Python时间处理](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
