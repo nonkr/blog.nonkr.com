@@ -51,6 +51,7 @@ tags:
 ### 中文文档
 [Python 中文学习大本营](http://www.pythondoc.com)
 [Flask-RESTful](http://www.pythondoc.com/Flask-RESTful)
+[Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/index.html)
 
 ### 文章
 [Python时间处理](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
