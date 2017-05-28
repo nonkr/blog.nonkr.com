@@ -53,5 +53,8 @@ tags:
 [Flask-RESTful](http://www.pythondoc.com/Flask-RESTful)
 [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/index.html)
 
+### 实践
+[树的简单实现](https://gist.github.com/hrldcpr/2012250)
+
 ### 文章
 [Python时间处理](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
