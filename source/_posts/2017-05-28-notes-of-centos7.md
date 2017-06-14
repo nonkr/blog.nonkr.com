@@ -76,3 +76,4 @@ firewall-cmd --query-port=80/tcp
 
 # 参考文献
 [5分钟理解Centos7防火墙firewalld](http://www.cnblogs.com/excelib/p/5150647.html)
+[redhat - 防火墙简介](https://access.redhat.com/documentation/zh-CN/Red_Hat_Enterprise_Linux/7/html/Security_Guide/sec-Using_Firewalls.html)
