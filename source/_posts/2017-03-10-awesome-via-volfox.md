@@ -46,6 +46,9 @@ tags:
 ### UI框架
 [Semantic UI](https://semantic-ui.com)
 
+### jQuery插件
+[模态框-jQuery Modal](http://jquerymodal.com)
+
 
 # Python
 
