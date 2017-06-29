@@ -38,6 +38,7 @@ tags:
 [智图-图片优化平台](http://zhitu.isux.us)
 [unsplash](https://unsplash.com)
 [动物头像](https://www.zooportraits.com)
+[Ajaxload](http://ajaxload.info)
 
 ### UI设计
 [UI设计师导航](http://so.uigreat.com)
