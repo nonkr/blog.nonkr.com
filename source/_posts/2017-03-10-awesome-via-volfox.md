@@ -49,6 +49,9 @@ tags:
 ### jQuery插件
 [模态框-jQuery Modal](http://jquerymodal.com)
 
+### 音频插件
+[audio.js](https://kolber.github.io/audiojs/)
+
 
 # Python
 
