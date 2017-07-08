@@ -52,6 +52,9 @@ tags:
 ### 音频插件
 [audio.js](https://kolber.github.io/audiojs/)
 
+### 剪贴板插件
+[clipboard.js](https://clipboardjs.com)
+
 
 # Python
 
