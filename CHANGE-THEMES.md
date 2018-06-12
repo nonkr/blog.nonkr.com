@@ -5,4 +5,4 @@
 1. 修改了/themes/yelee/layout/_partial/post/nav.ejs中有关版权署名的链接地址，修改为中文版说明。
 http://creativecommons.org/licenses/by-nc-sa/4.0/ -> http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 
-# test2
+# test3
